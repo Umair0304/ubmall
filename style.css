@@ -1,0 +1,468 @@
+.navbar{
+   background-color: #03DAC6 !important;
+   
+   
+}
+.nav-link{
+    font-weight: bold;
+}
+.navbar-nav :hover{
+    color:white !important;
+}
+.collapse{
+   
+    justify-content: space-around !important;
+}
+.fa-shopping-cart{
+    font-size: 32px !important;
+    justify-content: space-around !important;
+}
+.fa-home,.fa-user-circle-o,.fa-comments{
+    font-size: 32px !important;
+}
+.img-card{
+    width: 90%;
+
+}
+.slider-bottom{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+@media only screen and (max-width: 1200px) {
+    .slider-bottom{
+        margin-left:40px ;
+        
+      
+    }
+  }
+  .fa-truck,.fa-thumbs-o-up,.fa-phone-square{
+      font-size: 42px !important;
+      margin-right: 10px;
+  }
+  .main-card{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .card1,.card2,.card3{
+      display: flex;
+      width: 300px;
+      height: 60px;
+      align-items: center;
+      justify-content: center;
+      background-color: #03DAC6 ;
+      box-shadow: 4px 6px 7px grey;
+      margin-top: 10px;
+  }
+  .btn-color{
+background-color: #03DAC6 !important ;
+width: 60%;
+
+  }
+  .flash-sale{
+      margin-top: 80px;
+        
+     
+     
+  }
+  @media only screen and (max-width: 1200px) {
+    .flash-sale{
+        
+        background-color:#03DAC6  ;
+        color: #fff;
+    }
+  }
+  
+  .flash-sale h1{
+    color: #03DAC6;
+  }
+  @media only screen and (max-width: 1200px) {
+    .flash-sale h1{
+       
+      color: #fff;
+      background-color: #03DAC6;
+    }
+  }
+  .shop-more-button{
+      float: right;
+      
+  }
+  .shop-more a{
+      margin-left: 400px;
+      margin-top: 10px;
+  }
+  .btn-size{
+      background-color:  rgb(4, 114, 117) !important;
+      /* height: 40px;
+      width: 100px; */
+  }
+  .shop-more-button{
+      margin-top: 10px;
+  }
+  @media only screen and (max-width: 1200px) {
+    .shop-more a{
+        margin-left:0px ;
+        
+      
+    }
+  }
+  .card{
+      width: 250px !important;
+      background-color: white; 
+  }
+  .card :hover{
+      transform: scale(0,2,0);
+  }
+  .btn-color:hover{
+      
+      background-color: rgb(26, 200, 206) !important;
+    color: white !important;
+  }
+ .g{
+     text-align: center;
+     background-color:white;
+     width: 20%;
+     
+ }
+ .o{
+     justify-content: space-around;
+ }
+ @media screen and (max-width:1200px){
+     .g{
+         width: 48%;
+         margin-top: 30px;
+     }
+ }
+ .feature-product h1{
+    margin-top: 80px;
+    color:#03DAC6  ; 
+ }
+ @media only screen and (max-width: 1200px) {
+    .feature-product h1{
+       
+      color: #fff;
+      background-color: #03DAC6;
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    .feature-product{
+       
+      background-color: #03DAC6;
+    }
+  }
+  .categories h1{
+    color:#03DAC6  ; 
+  }
+  @media only screen and (max-width: 1200px) {
+    .categories h1{
+        color: #fff;
+        background-color: #03DAC6;
+     
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    .collection-product{
+       
+     width: 90%;
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    .shooping-mall-image{
+       
+     width: 100%;
+    }
+  }
+  .shooping-mall{
+      margin-top: 40px;
+
+  }
+  .about{
+      text-align: center;
+    
+  }
+  .vision,.mission,.philosophy,.value{
+      text-align: center;
+     
+      box-shadow:lightgray 6px 6px 4px 4px;
+      margin-top: 50px;
+      width: 210px;
+      height: 180px;
+  }
+  .mission,.philosophy,.value{
+      margin-left: 100px;
+  }
+ 
+  
+  @media only screen and (max-width: 1200px) {
+    .vision{
+     margin-left: 25px;  
+     width: 89%;
+     color: white;
+     box-shadow: grey 6px 6px 4px 4px ;
+    }
+  }
+ 
+  @media only screen and (max-width: 1200px) {
+    .mission{
+       margin-left: 20px;
+     width: 89%;
+     color: white;
+     box-shadow: grey 6px 6px 4px 4px ;
+    }
+  } 
+  
+  @media only screen and (max-width: 1200px) {
+    .philosophy{
+        margin-left: 20px;
+     width: 89%;
+     color: white;
+     box-shadow: grey 6px 6px 4px 4px ;
+    }
+  }
+  
+  @media only screen and (max-width: 1200px) {
+    .value{
+        margin-left: 20px;
+     width: 89%;
+     color: white;
+     box-shadow: grey 6px 6px 4px 4px ;
+    }
+  }
+  .fa-eye,.fa-font-awesome,.fa-lastfm,.fa-pencil{
+      font-size: 42px !important;
+  }
+.image-gallary{
+  text-align: center;
+  align-items: center !important;
+  margin-left: 530px;
+  color: #03DAC6;
+}
+.pic{
+  margin-top: 150px;
+  
+}
+ 
+@media only screen and (max-width: 1200px) {
+  .image-gallary{
+      margin-left: 50px;
+      
+      
+   
+   
+  }
+}
+  .gallary{
+    text-align: center;
+    margin-left: 110px;
+  }
+   
+ 
+@media only screen and (max-width: 1200px) {
+  .gallary{
+    margin-right: 0px;
+    margin-left: 0px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}
+  .potential{
+   margin-top: 50px;
+   text-align: center;
+   color: #03DAC6;
+  }
+  .our-potential{
+    margin-left: 180px;
+    margin-top: 50px;
+    font-size: 38px;
+   
+width: 300px;
+background-color: #03DAC6;
+box-shadow: grey 6px 6px;
+  }
+  .achievement{
+    margin-left: 180px;
+    margin-top: 50px;
+    font-size: 38px;
+   
+    width: 300px;
+    background-color: #03DAC6;
+    box-shadow: grey 6px 6px;
+  }
+ 
+@media only screen and (max-width: 1200px) {
+  .our-potential,.achievement{
+  
+    margin-left: 50px;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #03DAC6;
+  }
+} 
+  .fa-flag,.fa-globe,.fa-trophy{
+    margin-left:110px ;
+  }
+  .fa-tags{
+    margin-left: 75px;
+  }
+  .fa-male{
+    margin-left: 80px;
+  }
+  .fa-user-plus{
+    margin-left: 60px;
+  }
+  .fa-yelp{
+    margin-left: 40px;
+  }
+  .fa-phone{
+    margin-left: 70px;
+  }
+   .a1{
+    margin-left: 95px;
+  }
+  .a2{
+    margin-left: 105px;
+  }
+  .a3{
+    margin-left: 120px;
+  }
+  .a4{
+    margin-left: 80px;
+  }
+  .a5{
+    margin-left: 90px;
+  }
+  .a6{
+    margin-left: 90px;
+  }
+  .a7{
+    margin-left: 75px;
+  }
+  .a8{
+    margin-left: 70px;
+  }
+  .brands-we-carry{
+    margin-top: 150px;
+    text-align: center;
+    color: #03DAC6;
+  }
+   
+@media only screen and (max-width: 1200px) {
+  .brands-carry{
+  margin-left: 15px !important;
+   justify-content: center;
+   
+  }
+} 
+.contact{
+ text-align: center;
+  color: #03DAC6;
+  
+  margin-top: 150px;
+}
+.contact-us{
+  margin-top: 20px;
+  justify-content: space-around;
+}
+   
+@media only screen and (max-width: 1200px) {
+  .contact-us{
+ 
+   width: 60%;
+   margin-left: 70px !important;
+   
+  }
+} 
+.radio-buttons{
+margin-left: 470px;
+margin-top: 50px;
+}
+.submit-button{
+  margin-left: 520px;
+margin-top: 50px;
+}
+   
+@media only screen and (max-width: 1200px) {
+  .radio-buttons{
+ 
+   margin-left: 95px !important;
+   
+  }
+} 
+   
+@media only screen and (max-width: 1200px) {
+  .submit-button{
+  margin-left: 140px !important;
+   
+   
+  }
+} 
+.end{
+  background-color: black;
+  width: 100%;
+  margin-top: 100px;
+}
+.touch{
+  margin-left: 30px;
+}
+.touch,.site-map-heading,.ub-mall,.history,.site-map{
+  color: #03DAC6;
+}
+.copyright{
+  color: #fff;
+  background-color: #03DAC6;
+  margin-left: -15px !important;
+}
+
+@media only screen and (max-width: 1200px) {
+  .copyright{
+  
+  margin-left: -15px !important;
+   
+   
+  }
+} 
+
+
+@media only screen and (max-width: 1200px) {
+  .ending{
+  
+  margin-left: 15px !important;
+   
+   
+  }
+} 
+
+@media only screen and (max-width: 1200px) {
+  .history{
+  text-align: center !important;
+  margin-left: 20px;
+   
+   
+  }
+} 
+@media only screen and (max-width: 1200px){
+  .ub-mall{
+    text-align: center !important;
+    margin-left: 20px;
+     
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .site-map-heading,.site-map{
+  text-align: center !important;
+  margin-left: 100px;
+   
+   
+  }
+} 
+
+@media only screen and (max-width: 1200px) {
+  .touch{
+  text-align: center !important;
+  margin-right: 20px;
+   
+   
+  }
+} 
